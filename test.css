@@ -511,6 +511,11 @@
 	.info {
 		background-image: none;
 		height: auto;
+		padding-top: 30px !important;
+	}
+
+	.info .info-content {
+		height: auto;
 	}
 
 	.info .info-img {
