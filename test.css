@@ -506,7 +506,7 @@
 /* LG */
 @media(max-width: 960px) {
 	.policy {
-		height: 454px;
+		height: auto;
 	}
 	.info {
 		background-image: none;
