@@ -518,6 +518,12 @@
 		height: auto;
 	}
 
+	.info .info-content .long-text {
+		white-space: nowrap;
+		text-overflow: ellipsis;
+		overflow: hidden;
+	}
+
 	.info .info-img {
 		margin-bottom: 50px;
 		margin-left: 0;
